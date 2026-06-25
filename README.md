@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 Add your Netlify link here:
 
-https://your-portfolio.netlify.app
+ https://aaryaportfolio1234.netlify.app/
 
 ---
 
